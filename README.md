@@ -12,6 +12,6 @@
 
   <p>By using this app, you agree to this policy.</p>
 
-  <p>Contact: your@email.com</p>
+  <p>Contact: Joshuashina1999@gmail.com</p>
 </body>
 </html>
